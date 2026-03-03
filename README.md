@@ -8,7 +8,7 @@ This project analyzes Service Delivery Indicators (SDI) Health data across 10 Af
  - Maternal health preparedness
  - Rural vs Urban disparities
  - Country-level performance differences
- - Predictors of clinical competency
+ - Predictors of clinical competency.
 The goal is to generate data-driven policy recommendations to improve healthcare quality and reduce preventable maternal mortality.
 ---
 🌍 Dataset
